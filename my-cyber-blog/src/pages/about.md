@@ -3,33 +3,30 @@ title: About
 description: The origin story of Cyber Banana - from a humble fruit to the ultimate coding shifu.
 ---
 
-## The Legend of Cyber Banana
+## Dont read, Do
 
-In the neon-lit depths of **Neo Tokyo's underground hacker scene**, circa 2049, there existed a legend whispered only in encrypted channels and dark web forums.
+Become the Kirby
 
-They called him... **Cyber Banana**.
+Become a Whisper in the dark.
 
 ### Origin Story
 
-It started in a forgotten server room, where a ordinary banana was left next to a overheating GPU mining rig. The combination of radiation, energy drinks spilled on the motherboard, and 47 browser tabs of Stack Overflow created something unprecedented.
-
-The banana gained consciousness. And more importantly - it learned to code.
 
 ```bash
 $ whoami
-> cyber_banana_2049
-$ sudo rm -rf /mediocrity
-> Permission granted. Mediocrity deleted.
+> black_kirby
+$ git push -u origin main
+> file uploaded.
 ```
 
 ### The Path to Shifu
 
 For years, Cyber Banana trained in the ancient arts:
 
-- **The Way of the Clean Code** - Writing functions so pure they made senior devs weep
-- **The Discipline of No Framework** - Achieving enlightenment through vanilla JavaScript
-- **The CSS Grid Meditation** - Centering divs with a single breath
-- **The Terminal Mastery** - Speaking to machines in their native tongue
+- **The Way of Debugging** - 
+- **The Path of Questioning** - 
+- **The Work/life Meditiation Balance** - 
+- **The Mechatronics Mastery** - 
 
 ### Achievements Unlocked
 
@@ -49,32 +46,57 @@ For years, Cyber Banana trained in the ancient arts:
 
 ### Current Status
 
-Now, Cyber Banana roams the digital realm, helping developers build blazing-fast static sites and spreading the gospel of:
-
-- **No unnecessary dependencies**
-- **Semantic HTML**
-- **CSS that doesn't make you cry**
-- **JavaScript that actually works**
+tired probably soldering or writing some program for a custom built sensor.
 
 ### Find Me in the Matrix
 
-When not meditating on the perfect git commit message, Cyber Banana can be found:
+If you want to reach me :
 
-- Pushing pixels at 3 AM
-- Arguing about tabs vs spaces (it's tabs, obviously)
-- Converting coffee into code
-- Breaking prod on Fridays (it's a tradition)
+- Soldering  at 3 AM
+- Trying to debug a C++ memory error
+- Money is time, but Knowledge is Power.
+- If it doesn't work, fix it, if it works, great.
 
 ---
 
-*This about page is 100% accurate and definitely not made up by a developer who had too much caffeine.*
+*music, science, gaming, with these combined, you two can become the best*
 
 ```
-     ,--./,-.
-    / #      \
-   |          |
-    \        /
-     `._,._,'
-   CYBER BANANA
-    est. 2049
+     +++===============================++++++++++*************#####*****************+++++++
+========================-=-=========++++++++++***********######****************+++++++
+=======================--==========+++++++++**************#####***************++++++++
+===============---------------=======++++++++*************####***************+++++++++
+================---------------======+++++@@@@@@@@********####****************++++++++
+=================-------------=====++++++@@@@@@@@@@*******#####***************++++++++
+++====================--=-===#@@@@@@@@@@@@@@@@@@@@@@*******####*****************++++++
++++++++++++++============*@%@@@@@@@@@@@@@@@@@@@@@@@@%******#####*******#******++++*+==
+++++++++++++++++======*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*****#####******#********+**++++
+++++++++++++++++++==+@@@@@@@@@@@@@@@@@@@@@@@@@@@:%@@@@@#***######*****#*************++
+*******++++++++++++@@@@@@@@@@@@@@@@=.-#%@@@@@@:...=@@@@@@#*######******#*:****++++++++
+***********++++++*@@@@@@@@@@@@@@@@@*.....-@@@@*....*@@@@@@**#####******#*******+++++*#
+***************+*@@@@@@@@@@@@@@@@@@@......#@@@@-....@@@@@@@%######*****##********++++#
+##########*###*#@@@@@@@@@@@@@@@@@@@@@.....-@@@@@+...@@@@@@@@#######*****#***********+*
+############***@@@@@@@@@@@@@@@@@@@@@@@:...*@@@@@@@%@@@@@@@@@@#############************
+#############%@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@#######*#=**#**********++
+#######**++%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%######@@@@@@@@@@#++++++++*+************##
++++++++++*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#*######@@@@@@@@@@%*****###################
+#########@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@######@@@@@@@@@@@@******##################
+#########@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#****************####***#
+#########@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@******************###****
+**********#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@******************####***
+.......:==+=---=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*******************####***
+::.:.......-===-+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*****************##########
+.:...:....::--*+*+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#**************#############
+..: ...:...::::=+++*#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#####*********###############
+:..: ........ =+++******#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#########*##*##################
+*.:--..:..:..-+++******######@@@@@@@@@@@@@@@@@@@@@@@%*################################
++#...:.   . -+++*****###########@@@@@@@@@@@@@@@@@@#****##########**##*################
+=++.:---::...++*****#############@@@@@@@@@@@@%#******#########*******************####*
+-+*=....-  . +*******########**#**-++++#*=====++*########*******#%##*+************###*
+-=**:....-.:--****######********=--*#++++++*+----------------===-----=*#*****#########
+--*+*.:---=.--::.*####*****+..........-*:----:-=-:............:::-++=======*#**#**####
+--*+*#.::::::      ..: ...              .:=--====-+=------------======+*#+***+++*##*##
+=-+=+#= .....-.       ::.           .....:::+*+++*+*+*#*++==++++++++++++++++*#+++++++=
+   black_kirby
+    est. 2026
 ```
