@@ -13,7 +13,7 @@ github: https://github.com/username/ui-lib
 demo: https://ui-lib-docs.example.com
 featured: true
 ---
-
+WAT
 A collection of accessible, customizable UI components built with modern web standards and zero runtime dependencies.
 
 ## Philosophy
