@@ -2,7 +2,7 @@
 navigation:
   - label: Home
     url: /
-  - label: Projects
+  - label: Portfolio
     url: /projects/
   - label: Blog
     url: /blog/

@@ -1,7 +1,7 @@
 # Social Media Links
 - platform: x
   label: X (Twitter)
-  url: https://x.com/FreshJuiceDev
+  url: https://github.com/fermionicplants
 
 - platform: github
   label: GitHub
@@ -9,4 +9,4 @@
 
 - platform: linkedin
   label: LinkedIn
-  url: https://www.linkedin.com/company/freshjuice
+  url: https://github.com/fermionicplants
