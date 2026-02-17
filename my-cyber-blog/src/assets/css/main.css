@@ -11,13 +11,13 @@
 
 /* Theme configuration */
 @theme {
-  /* Primary: Neon Banana Yellow - Cyberpunk palette */
+  /* Primary: Neon Banana emerald - Cyberpunk palette */
   --color-primary-50: oklch(0.99 0.05 95);
   --color-primary-100: oklch(0.97 0.10 95);
   --color-primary-200: oklch(0.94 0.15 95);
   --color-primary-300: oklch(0.90 0.18 95);
   --color-primary-400: oklch(0.87 0.20 95);
-  --color-primary-500: oklch(0.92 0.19 95);  /* ~#FFE500 - main neon yellow */
+  --color-primary-500: oklch(0.92 0.19 145);  /* ~#FFE500 - main neon emerald */
   --color-primary-600: oklch(0.82 0.17 95);
   --color-primary-700: oklch(0.72 0.15 95);
   --color-primary-800: oklch(0.58 0.12 95);

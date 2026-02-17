@@ -174,7 +174,7 @@ Edit the color palette in `src/assets/css/main.css`:
 
 ```css
 @theme {
-  /* Primary: Neon Banana Yellow */
+  /* Primary: Neon Banana emerald */
   --color-primary-500: oklch(0.92 0.19 95);
 
   /* Dark: Deep cyberpunk backgrounds */

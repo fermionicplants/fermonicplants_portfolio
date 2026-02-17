@@ -227,7 +227,7 @@
     }
 
     &::-webkit-meter-suboptimum-value {
-      @apply bg-yellow-500;
+      @apply bg-emerald-500;
     }
 
     &::-webkit-meter-even-less-good-value {
