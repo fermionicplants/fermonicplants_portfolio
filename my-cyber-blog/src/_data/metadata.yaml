@@ -1,11 +1,11 @@
 # Site Metadata
 title: black_kirby
-description: justin is a kirby
+description: justin is a kirby.
 language: en
 author: Fermionictrees
 email: contact@fermionictrees.dev
 
 # Social/SEO
 twitter: "@fermionicplants"
-image: /assets/images/og-placeholder.png
+image: /assets/images/kirbs.png
 themeColor: "#FFE500"
