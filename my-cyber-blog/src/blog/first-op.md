@@ -18,4 +18,7 @@ The blog is running locally. Now, let's verify the assets.
 
 I work in Mechatronics Engineering as a Kriby
 
+
+word
+
 ![My Setup Image](/assets/images/kirbs.png)
