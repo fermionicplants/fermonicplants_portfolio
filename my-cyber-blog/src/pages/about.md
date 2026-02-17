@@ -1,6 +1,6 @@
 ---
-title: About
-description: The origin story of Cyber Banana - from a humble fruit to the ultimate coding shifu.
+title: Read the lines in the sand
+description: HOUSE MD - question everything. 
 ---
 
 ## Dont read, Do
@@ -9,9 +9,11 @@ Become the Kirby
 
 Become a Whisper in the dark.
 
-### Origin Story
+### Roots
+ 
+ My origin story is still being written, however if you're interested in trying to understand, look up @aesoprock @housemd and those will give you enough information on how to become an expert technician. While thats like less than 1% of my background I think that will help people understand how to create a team of people who can question everythin.
 
-
+questions?
 ```bash
 $ whoami
 > black_kirby
@@ -27,22 +29,24 @@ For years, Cyber Banana trained in the ancient arts:
 - **The Path of Questioning** - 
 - **The Work/life Meditiation Balance** - 
 - **The Mechatronics Mastery** - 
+- **Mastercoder ** - 
+lastly, there is always a few things you must master on your own to become your own master.
+
 
 ### Achievements Unlocked
 
 | Year | Achievement |
 |------|-------------|
-| 2050 | Fixed a bug by just staring at it |
-| 2051 | Made a website load in -3ms (it loads before you click) |
-| 2052 | Wrote documentation. Voluntarily. |
-| 2053 | Achieved inbox zero (and kept it) |
-| 2054 | Understood regex on the first try |
+| 2024 | Masters in Physics |
+| 2025 | First Paper |
+| 2026 | First developer publication |
+
 
 ### The Philosophy
 
-> "Any fool can write code that a computer can understand. A true shifu writes code that bananas can understand."
+> "Any fool can write code that a computer can understand. A true master questions what code is, and how he can bend time to code.
 >
-> — Cyber Banana, probably
+> — idk 
 
 ### Current Status
 
